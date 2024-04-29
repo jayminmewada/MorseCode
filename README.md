@@ -35,11 +35,8 @@ Configuration
 
 Make sure to configure the MongoDB connection details in the application before running.
 
-License
-
-MIT License
-
 Author
+
 JAYMIN MEWADA
 
 Feel free to expand on each section with more detailed instructions or explanations specific to your application. Let me know if you need further assistance!
