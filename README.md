@@ -1,7 +1,7 @@
 
 Morse Code Application
 
-This is a Java application that converts text to Morse code and vice versa, with a GUI built using JavaFX. MongoDB is utilized for data storage.
+This is a Java application that converts text to Morse code and vice versa, with a GUI built using JavaFX. MongoDB is utilized for data storage.This project beging managed using Maven.
 
 Features
 
@@ -37,6 +37,6 @@ Make sure to configure the MongoDB connection details in the application before 
 
 Author
 
-JAYMIN MEWADA
+Jaymin Mewada
 
 Feel free to expand on each section with more detailed instructions or explanations specific to your application. Let me know if you need further assistance!
